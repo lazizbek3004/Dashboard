@@ -1,0 +1,17 @@
+<svg width="60.000000" height="60.000000" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs/>
+	<g opacity="0.210000">
+		<mask id="mask_1_26320" fill="white">
+			<path id="Circle 2" d="M30 0L23 0C10.2969 0 0 10.2975 0 23L0 37C0 49.7025 10.2969 60 23 60L30 60L30.0117 60L37 60C49.7031 60 60 49.7025 60 37L60 23C60 10.2975 49.7031 0 37 0L30 0Z" clip-rule="evenodd" fill="" fill-opacity="1.000000" fill-rule="evenodd"/>
+		</mask>
+		<path id="Circle 2" d="M30 0L23 0C10.2969 0 0 10.2975 0 23L0 37C0 49.7025 10.2969 60 23 60L30 60L30.0117 60L37 60C49.7031 60 60 49.7025 60 37L60 23C60 10.2975 49.7031 0 37 0L30 0Z" clip-rule="evenodd" fill="#FEC53D" fill-opacity="1.000000" fill-rule="evenodd" mask="url(#mask_1_26320)"/>
+		<path id="Circle 2" d="" fill="#979797" fill-opacity="0.000000" fill-rule="nonzero"/>
+	</g>
+	<path id="Combined Shape" d="M45 37.4248L45 24.1184L31.7578 31.7645C31.7266 31.7816 31.6953 31.7977 31.668 31.8129L31.668 46.3846L44.0781 39.0385C44.6484 38.7009 45 38.0875 45 37.4248ZM15 24.3164L27.9023 31.7645C28.0391 31.8447 28.1836 31.9026 28.332 31.9395L28.332 46.3846L15.9219 39.0385C15.3516 38.7009 15 38.0875 15 37.4248L15 24.3164Z" clip-rule="evenodd" fill="#FEC53D" fill-opacity="1.000000" fill-rule="evenodd"/>
+	<g opacity="0.499209">
+		<path id="Path" d="M15.4 20.7C15.56 20.5 15.76 20.33 15.99 20.21L29.12 13.22C29.67 12.92 30.33 12.92 30.88 13.22L44 20.21C44.18 20.3 44.34 20.42 44.48 20.56L30.08 28.87C29.99 28.93 29.91 28.99 29.82 29.06C29.75 28.99 29.66 28.93 29.56 28.87L15.4 20.7Z" fill="#FEC53D" fill-opacity="1.000000" fill-rule="evenodd"/>
+	</g>
+</svg>
